@@ -1,4 +1,5 @@
-centralized synchronized betting pools platform built on the Stacks blockchain using Clarity smart contracts.
+BetSync is a decentralized synchronized betting pools platform built on the Stacks blockchain using Clarity smart contracts.
+=======
 BetSync enables users to create and participate in binary outcome betting pools with transparent, automated payouts and real-time odds calculation. Perfect for prediction markets, sports betting, and community-driven wagering.
 🚀 Features
 Core Functionality
@@ -193,5 +194,5 @@ Built with ❤️ on the Stacks blockchain
 Inspired by the need for transparent, decentralized betting
 Thanks to the Stacks and Clarity community for their support
 
-
 ⚠️ Disclaimer: This software is provided for educational and research purposes. Users should comply with all applicable laws and regulations regarding betting and gambling in their jurisdiction. The developers are not responsible for any misuse of this software.
+=======
